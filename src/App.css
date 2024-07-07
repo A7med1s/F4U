@@ -1,0 +1,9 @@
+.bg-one{
+  background-image: url('./assets/somewhere-near-future-4k_1618126622-1536x864.jpg.webp');
+}
+@media (min-width: 768px) {
+    .sidebar {
+      display: block;
+      transform: translateX(0);
+    }
+  }
